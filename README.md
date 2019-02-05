@@ -1,2 +1,1 @@
-# punto_inicio
-Punto de Inicio
+# Punto de Inicio

@@ -12,7 +12,7 @@ Una vez hecho esto, accedéis a moodle y realizáis el registro accediendo al li
 Esto os va a permitir vincular vuestra cuenta institucional con el grupo de Github que existe para la asignatura. 
 
 Ahora crearemos un repositorio propio, que funciona de forma similar a los repositorios creados por otros controles de versiones (igual que drive o dropbox tienen el suyo). 
-Para esto, debéis acceder a vuestro perfil, clickando en la esquina superior derecha o accediendo al link: https://github.com/NombreDeUsuario
+Para esto, debéis acceder a vuestro perfil, clickando en la esquina superior derecha.
 
 Desde allí podéis acceder a la pestaña repositorios y pulsar en "nuevo".
 Una vez hecho esto, podréis darle un nombre al proyecto y una breve descripción sobre el mismo.

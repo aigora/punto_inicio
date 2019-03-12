@@ -14,6 +14,9 @@ Si tenéis dudas sobre GitHub podéis ir a ver a los becarios que se encuentran 
 - **JUEVES:**
     - 11:30-12:00 (Julia)
     - 17:00-17:30 (Miguel)
-
+    
+Si necesitáis contactar con nosotros, nuestros correos electrónicos son:
+- Miguel: miguel.perez.mateo@alumnos.upm.es
+- Julia : julia.urusanz@alumnos.upm.es
 
 
